@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+<students>
+    <student id="s001">
+        <personalInfo>
+            <name>Shah Rukh Khan</name>
+            <age>20</age>
+            <email>srkhan@university.edu</email>
+        </personalInfo>
+        <academicInfo>
+            <major>Computer Science</major>
+            <gpa>3.8</gpa>
+            <year>Junior</year>
+        </academicInfo>
+        <courses>
+            <course code="CSE301">
+                <title>Operating Systems</title>
+                <grade>A</grade>
+            </course>
+            <course code="CSE302">
+                <title>Database Systems</title>
+                <grade>A-</grade>
+            </course>
+        </courses>
+    </student>
+    <student id="s002">
+        <personalInfo>
+            <name>Deepika Padukone</name>
+            <age>21</age>
+            <email>deepika.p@university.edu</email>
+        </personalInfo>
+        <academicInfo>
+            <major>Computer Science</major>
+            <gpa>3.9</gpa>
+            <year>Senior</year>
+        </academicInfo>
+        <courses>
+            <course code="CSE401">
+                <title>Artificial Intelligence</title>
+                <grade>A</grade>
+            </course>
+            <course code="CSE402">
+                <title>Machine Learning</title>
+                <grade>B+</grade>
+            </course>
+        </courses>
+    </student>
+    <student id="s003">
+        <personalInfo>
+            <name>Ranbir Kapoor</name>
+            <age>19</age>
+            <email>ranbir.k@university.edu</email>
+        </personalInfo>
+        <academicInfo>
+            <major>Computer Science</major>
+            <gpa>3.6</gpa>
+            <year>Sophomore</year>
+        </academicInfo>
+        <courses>
+            <course code="CSE201">
+                <title>Computer Networks</title>
+                <grade>B+</grade>
+            </course>
+            <course code="CSE202">
+                <title>Software Engineering</title>
+                <grade>A-</grade>
+            </course>
+        </courses>
+    </student>
+    <student id="s004">
+        <personalInfo>
+            <name>Priyanka Chopra</name>
+            <age>22</age>
+            <email>priyanka.c@university.edu</email>
+        </personalInfo>
+        <academicInfo>
+            <major>Computer Science</major>
+            <gpa>4.0</gpa>
+            <year>Senior</year>
+        </academicInfo>
+        <courses>
+            <course code="CSE401">
+                <title>Cloud Computing</title>
+                <grade>A</grade>
+            </course>
+            <course code="CSE402">
+                <title>Cybersecurity</title>
+                <grade>A</grade>
+            </course>
+        </courses>
+    </student>
+</students>
